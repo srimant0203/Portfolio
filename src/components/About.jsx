@@ -9,7 +9,7 @@ import Tailwind from '../assets/Tailwind Css.png'
 import NodeLogo from '../assets/NodeLogo.png'
 import Mongodb from '../assets/mongodb.svg'
 import Express from '../assets/Express.png'
-import NextJs from '../assets/NextJs.png'
+
 
 const About = () => {
     return (
@@ -70,10 +70,6 @@ const About = () => {
                                     <div className='border border-red-300 flex items-center gap-1 w-max px-2 py-1 rounded-lg shadow-md shadow-red-300'>
                                         <img src={Express} alt="" className='w-10' />
                                         <span className='font-semibold'>Express Js</span>
-                                    </div>
-                                    <div className='border border-red-300 flex items-center gap-1 w-max px-2 py-1 rounded-lg shadow-md shadow-red-300'>
-                                        <img src={NextJs} alt="" className='w-9' />
-                                        <span className='font-semibold'>Next Js</span>
                                     </div>
                                 </div>
                             </div>
