@@ -14,35 +14,35 @@ const Projects = () => {
         title: 'Ecommerce',
         desc: 'A robust and user-friendly online store built with the MERN stack, delivering seamless shopping experiences.',
         image: Ecommerce,
-        live: "https://mern-ecommerce-59xs.onrender.com",
+        live: "https://ecommerce-8t0j.onrender.com",
         github: "https://github.com/srimant0203/mern-ecommerce"
       },
       {
         title: 'Twitter Clone',
         desc: 'A sleek, responsive Twitter clone created using MERN stack, enabling real-time interactions and social engagement.',
         image: Twitter,
-        live: "https://twitter-clone-master-q7ut.onrender.com",
+        live: "https://twitter-5kxb.onrender.com",
         github: "https://github.com/srimant0203/twitter-clone-master"
       },
       {
         title: 'Netflix Clone',
         desc: 'A captivating Netflix clone built with MERN stack, offering a modern UI and seamless streaming experience.',
         image: Netflix,
-        live: "https://netflix-nsxb.onrender.com",
+        live: "https://netflix-web-tk8e.onrender.com",
         github: "https://github.com/srimant0203/netflix"
       },      
       {
         title: 'E-Hotel Booking',
         desc: 'An intuitive hotel booking platform designed with MERN stack, ensuring efficient reservation and management.',
         image: Booking,
-        live: "https://mern-booking-website-x63e.onrender.com",
+        live: "https://booking-he3w.onrender.com",
         github: "https://github.com/srimant0203/mern-booking-website"
       },
       {
         title: 'Chart App',
         desc: 'A dynamic charting application developed with the MERN stack, perfect for visualizing data insights in real-time.',
         image: Chart_App,
-        live: "https://mern-chat-app-dbif.onrender.com",
+        live: "https://chat-app-u01g.onrender.com",
         github: "https://github.com/srimant0203/mern-chat-app"
       }
       ,
